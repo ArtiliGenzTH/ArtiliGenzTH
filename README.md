@@ -16,5 +16,5 @@ Hi,&nbsp;I am Panomporn Thepsai 👋🏻
 * **Tools :** GitHub, Postman, DBeaver, Notion, Fork
 
 ## 📪 Contact Me
-* Email: artiligenz@gmail.com
+* Email: panomporn.thepsai@gmail.com
 * LinkedIn: https://www.linkedin.com/in/panomporn-thepsai-187071245/  
